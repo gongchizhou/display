@@ -1,0 +1,40 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "avatar": "static/images/avatar1.png",
+            "src": "static/images/goods/jinniu.png",
+            "name": "金牛座",
+            "total": "0.1569 DDC",
+            "price": "0.03 ETH/DDC",
+            "num": "5.23 DDC"
+        },
+        {
+            "id": "2",
+            "avatar": "static/images/avatar1.png",
+            "src": "static/images/goods/jinniu.png",
+            "name": "金牛座",
+            "total": "0.1569 DDC",
+            "price": "0.03 ETH/DDC",
+            "num": "5.23 DDC"
+        },
+        {
+            "id": "3",
+            "avatar": "static/images/avatar1.png",
+            "src": "static/images/goods/jinniu.png",
+            "name": "金牛座",
+            "total": "0.1569 DDC",
+            "price": "0.03 ETH/DDC",
+            "num": "5.23 DDC"
+        },
+        {
+            "id": "4",
+            "avatar": "static/images/avatar1.png",
+            "src": "static/images/goods/jinniu.png",
+            "name": "金牛座",
+            "total": "0.1569 DDC",
+            "price": "0.03 ETH/DDC",
+            "num": "5.23 DDC"
+        }
+    ]
+}
